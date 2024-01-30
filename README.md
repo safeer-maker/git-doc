@@ -36,7 +36,19 @@ tasks:
 
 ### Emojies
 
-> I am working in AWS :cloud:. As its best and most suitable inferacture. 
+> I am working in AWS :cloud:. As its best and most suitable inferacture.
+
+### Creating tables
+
+``` md
+| Name | Shortcode | Emoje |
+| --- | --- | --- |
+| Cloud | `:cloude:` | :cloude: |
+```
+
+| Name | Shortcode | Emoje |
+| --- | --- | --- |
+| Cloud | `:cloude:` | ☁️ |
 
 ## Refrences 
 
