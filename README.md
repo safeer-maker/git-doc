@@ -1,6 +1,6 @@
 # Good documentation Practice
 
-## Codeblocks Pactice.
+## Codeblocks Pactice
 
 Lets copy and past a random python code for GPT-3 and make codeblock out of it.
 
@@ -28,6 +28,20 @@ tasks:
 !["Git Hub logo"](/resources/GitHub-Logo.png)
 
 <img width="200px" src="/resources/GitHub-Logo.png">
+
+## Emoji, Check marks and Tables
+
+- [x] Code block completed
+- [ ] Picture added to GitHub
+
+### Emojies
+
+> I am working in AWS :cloud:. As its best and most suitable inferacture. 
+
+## Refrences 
+
+- ***[Codeblocks Pactice](https://chat.openai.com)***
+- [GitHub Picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Flthub.ubc.ca%2Fguides%2Fgithub-instructor-guide%2F&psig=AOvVaw0uXiuX2nwh4E59cfxl31CB&ust=1706719439658000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDJ0MTHhYQDFQAAAAAdAAAAABAE)
 
 
 
